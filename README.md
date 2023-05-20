@@ -1,5 +1,6 @@
 # tar-xz
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/ansidev/tar-xz.svg)](https://pkg.go.dev/github.com/ansidev/tar-xz)
 [![Go CI](https://github.com/ansidev/tar-xz/actions/workflows/go.yml/badge.svg)](https://github.com/ansidev/tar-xz/actions/workflows/go.yml)
 
 ## Introduction
