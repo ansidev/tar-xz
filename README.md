@@ -1,5 +1,7 @@
 # tar-xz
 
+[![Go CI](https://github.com/ansidev/tar-xz/actions/workflows/go.yml/badge.svg)](https://github.com/ansidev/tar-xz/actions/workflows/go.yml)
+
 ## Introduction
 
 A simple Go module for decompressing a tar.xz file.
