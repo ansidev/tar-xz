@@ -4,6 +4,11 @@
 
 A simple Go module for decompressing a tar.xz file.
 
+## Supported platforms
+
+- [x] Linux
+- [x] macOS
+
 ## Example
 
 ```go
